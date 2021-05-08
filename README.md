@@ -5,7 +5,7 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
 - 🤝 Open for job in  analytics,data science and python
-- 👨 Know more about me at [My Resume](add your google drive resume link here) 
+- 👨 Know more about me at [My Resume](https://docs.google.com/document/d/1NWEVLEVzK3szGENfuDUPPm7MIyw68NwP/edit) 
 
 ### My Recent projects 
 
