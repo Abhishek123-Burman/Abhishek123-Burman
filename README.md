@@ -9,6 +9,8 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 
 ### My Recent projects 
 
-[Heart stroke analysis](https://github.com/Abhishek123-Burman/EDA-Project-)
-
+[Heart-stroke-analysis-using-EDA](https://github.com/Abhishek123-Burman/Heart-stroke-analysis-using-EDA)
+[Boston-Data-Set-Analysis-Using-Regression-Models](https://github.com/Abhishek123-Burman/Boston-Data-Set-Analysis-Using-Regression-Models)
+[California-Housing-Price-Prediction-using-ML](https://github.com/Abhishek123-Burman/California-Housing-Price-Prediction-using-ML)
+[Phishing-Detector-Using-LR-and-Other-Machine-Learning-Models](https://github.com/Abhishek123-Burman/Phishing-Detector-Using-LR-and-Other-Machine-Learning-Models)
 
