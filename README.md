@@ -17,3 +17,6 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 
 [Phishing-Detector-Using-LR-and-Other-Machine-Learning-Models](https://github.com/Abhishek123-Burman/Phishing-Detector-Using-LR-and-Other-Machine-Learning-Models)
 
+[Prediction of level of income qualification for families in Latin America](https://github.com/Abhishek123-Burman/Prediction-of-level-of-income-qualification-for-families-in-Latin-America)
+
+[Mercedes-Benz Greener Manufacturing](https://github.com/Abhishek123-Burman/Mercedes-Benz-Greener-Manufacturing)
